@@ -26,6 +26,9 @@ The project is built on the sentimental belief that loved ones become stars in t
 2. **Open the `index.html` file** in any modern browser.
 3. **Start Sending Messages** to your loved ones, and watch them transform into stars! ✨
 
+## 📸 Preview
+![Star Send Preview](star-send-preview.png)
+
 
 ## 🔮 Future Enhancements
 - **Database Integration:** Store messages permanently.
